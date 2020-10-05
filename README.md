@@ -12,3 +12,5 @@ Code Files for GraVITas20-Pycode Event.
 **Website**: nilanshbansal.github.io
 
 **Contact**: bansalnilansh@gmail.com
+
+Basics of Web Scraping using Numpy and Pandas
